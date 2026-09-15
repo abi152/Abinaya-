@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the college timing?",
+    "answer": "The college timing is 9:00 AM to 5:00 PM, Monday to Friday."
+  },
+  {
+    "question": "What is the office timing?",
+    "answer": "The college office is open from 9:00 AM to 5:00 PM, Monday to Friday."
+  },
+  {
+    "question": "How can I contact the college office?",
+    "answer": "You can contact the college office during working hours."
+  },
+  {
+    "question": "What is the purpose of this assistant?",
+    "answer": "This assistant helps students get answers to common college-related questions."
+  },
+  {
+    "question": "What technologies are used?",
+    "answer": "The project uses Python, Flask, HTML, CSS, JavaScript and JSON."
+  }
+]
